@@ -6,19 +6,19 @@
   link: /contact/
   new_window: false
   highlight: false
-  - name: Blog
+- name: Blog
   link: /blog/
   new_window: false
   highlight: false
-  - name: Jobs
+- name: Jobs
   link: /jobs/
   new_window: false
   highlight: false
-  - name: Team
+- name: Team
   link: /team/
   new_window: false
   highlight: false
-  - name: Press
+- name: Press
   link: /press/
   new_window: false
   highlight: false
